@@ -2,12 +2,12 @@
 
 int driveDisable = 2; //standby		stby
 
-					  //Left Motor
+//Left Motor
 int L_Speed = 10; //Speed control 	PWMA
 int L_Dir1 = 11; //Direction		Ain1
 int L_Dir2 = 12; //Direction 		Ain2
 
-				 //Right Motor; aka B
+//Right Motor; aka B
 int R_Speed = 6; //Speed control	PWMB
 int R_Dir1 = 7; //Direction			Bin1
 int R_Dir2 = 8; //Direction		Bin2
